@@ -1,0 +1,3 @@
+the multithreading is necessary for the client code to not copy the code, maybe just running twice the script in different terminal is actually considered as multithreading.
+
+on server side no multithreading is necessary as it only process central game information and peer informations
